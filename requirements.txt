@@ -1,0 +1,19 @@
+numpy
+pandas
+sqlalchemy
+pyodbc
+
+networkx
+matplotlib
+
+lxml
+
+# sentry_sdk
+
+
+graphviz
+
+stldecompose
+statsmodels
+
+jupyter
