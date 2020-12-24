@@ -15,9 +15,6 @@ import matplotlib.pyplot as plt
 import graphviz
 
 
-# from secure import conn_gf_dwh_serv3
-
-
 def clean_xmla_from_namespaces(root):
     # remove namespaces ----
     for elem in root.getiterator():
